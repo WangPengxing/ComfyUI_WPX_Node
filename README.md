@@ -13,5 +13,5 @@
 ## 安装方法
 
 1. 进入ComfyUI的`custom_nodes`目录
-2. 克隆本仓库：`git clone https://github.com/wpx123456/ComfyUI-WPX-Nodes.git`
+2. 克隆本仓库：`https://github.com/WangPengxing/ComfyUI_WPX_Node.git`
 3. 重启ComfyUI
