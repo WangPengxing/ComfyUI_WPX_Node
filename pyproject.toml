@@ -1,0 +1,14 @@
+[project]
+name = "wpx_node"
+description = "A custom node collection for ComfyUI, offering enhanced image processing features."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/WangPengxing/ComfyUI_WPX_Node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_WPX_Node"
+Icon = ""
